@@ -1,0 +1,8 @@
+#EXTINF:-1,History Channel
+http://200.78.215.85:8010/play/a0bw
+#EXTINF:0,HISTORY HD
+http://83.81.26.83:9981/stream/channelid/1016618814
+#EXTINF:0,Viceland HD
+http://83.81.26.83:9981/stream/channelid/1838263622
+#EXTINF:-1 group-title="Lista 2",History Channel
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/globo/J02/67.m3u8
